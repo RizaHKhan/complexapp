@@ -33,6 +33,6 @@
     "validator": "^11.1.0",
     "validatore": "^1.0.1",
     "webpack": "^4.39.2",
-    "webpack-cli": "^3.3.6"
+    "webpack-cli": "^3.3.12"
   }
 }
